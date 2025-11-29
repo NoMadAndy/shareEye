@@ -172,4 +172,4 @@ def api_status():
 
 if __name__ == '__main__':
     # Auf allen Interfaces auf Port 5002 hören
-    app.run(host='0.0.0.0', port=5002, debug=True)
+    app.run(host='0.0.0.0', debug=True)
