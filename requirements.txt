@@ -1,4 +1,6 @@
-Flask==3.0.0
-requests==2.31.0
-python-dotenv==1.0.0
-Pillow==10.1.0
+Flask>=2.2
+pandas>=1.5
+scikit-learn>=1.2
+yfinance>=0.2.18
+plotly>=5.14
+numpy>=1.24
